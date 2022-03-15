@@ -16,7 +16,7 @@ Enter criteria that’s of interest in the search boxes and click outside of the
 **FL sightings on 1/1/2010**  
 ![FL filters](/Screenshots/FL_filters.PNG)  
 
-Filters can be removed by deleting any search criteria that’s been entered, and clicking outside of the box, or by clicking the “UFO Sightings” link in the upper left corner of the page.  
+Filters can be removed by deleting any search criteria that’s been entered and clicking outside of the box, or by clicking the “UFO Sightings” link in the upper left corner of the page.  
 
 ![Remove filters](/Screenshots/Remove_filters.png)  
 
